@@ -1,0 +1,19 @@
+<ModMetaData>
+	<name>No Healing Emotes</name>
+	<author>Squirting Elephant</author>
+	<supportedVersions>
+		<li>1.1</li>
+		<li>1.2</li>
+	</supportedVersions>
+	<packageId>SquirtingElephant.NoHealingEmotes</packageId>
+	<loadAfter>
+		<li>Ludeon.RimWorld</li>
+		<li>Ludeon.RimWorld.Royalty</li>
+	</loadAfter>
+	<description>Removes the + emotes from pawns that are healing (like in hospital beds).
+
+Technical Info
+- Is just an XPatch, is extremely compatible.
+- May increase performance on older systems.
+- Can safely be added and removed to/from an existing game.</description>
+</ModMetaData>
